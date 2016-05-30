@@ -3,3 +3,11 @@
 	margin: 15px;
 	padding: 15px;
 }
+
+body{
+    background-color: white;
+}
+
+#header-bar{
+    background-color: #c3c3c3;
+}
